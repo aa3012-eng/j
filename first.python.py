@@ -1,0 +1,2 @@
+#display outpuy
+print("hello")
